@@ -44,3 +44,16 @@ const brit = new racaDog("Britney");
 const samy = new racaDog("Samira", "Pitbull");
 verificarRaca(brit); // O cão não tem raça
 verificarRaca(samy); // A raça do cachorro é Pitbull
+let Rating = false;
+function FeedBack(rating) {
+    if (rating === false) {
+        console.log(`Você não deu nenhuma estrela para este vídeo.`);
+    }
+    else if (typeof rating === "number" && rating <= 5) {
+        console.log(`Você deu ${rating} estrelas para este vídeo.`);
+    }
+    else {
+        console.log(`É impossível dar uma nota de ${rating} estrelas.`);
+    }
+}
+FeedBack(Rating);
