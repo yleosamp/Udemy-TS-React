@@ -1,0 +1,24 @@
+2023-10-07 22:38:32 - [32minfo[39m: [32mA aplicação está ligada na porta: 3000[39m
+2023-10-07 22:39:35 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-10-07 22:39:35 - [32minfo[39m: [32mA aplicação está ligada na porta: 3000[39m
+2023-10-07 22:39:52 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-10-07 22:39:52 - [32minfo[39m: [32mA aplicação está ligada na porta: 3000[39m
+2023-10-07 22:40:31 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-10-07 22:40:31 - [32minfo[39m: [32mA aplicação está ligada na porta: 3000[39m
+2023-10-07 22:40:40 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-10-07 22:40:40 - [32minfo[39m: [32mA aplicação está ligada na porta: 3000[39m
+2023-10-07 22:40:46 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-10-07 22:40:46 - [32minfo[39m: [32mA aplicação está ligada na porta: 3000[39m
+2023-10-07 22:40:48 - [31merror[39m: [31mNão foi possível conectar ao MongoDB[39m
+2023-10-07 22:41:02 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-10-07 22:41:02 - [32minfo[39m: [32mA aplicação está ligada na porta: 3000[39m
+2023-10-07 23:02:00 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-10-07 23:02:00 - [32minfo[39m: [32mA aplicação está ligada na porta: 3000[39m
+2023-10-07 23:06:45 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-10-07 23:06:45 - [32minfo[39m: [32mA aplicação está ligada na porta: 3000[39m
+2023-10-07 23:07:40 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-10-07 23:07:40 - [32minfo[39m: [32mA aplicação está ligada na porta: 3000[39m
+2023-10-07 23:08:22 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-10-07 23:08:22 - [32minfo[39m: [32mA aplicação está ligada na porta: 3000[39m
+2023-10-07 23:08:24 - [35mhttp[39m: [35mGET /api/test 200 12 - 1.708 ms[39m
+[35m[39m

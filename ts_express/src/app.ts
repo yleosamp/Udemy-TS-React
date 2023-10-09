@@ -108,7 +108,7 @@ app.get(
   "/api/middleware/:id/admin",
   verifyAdmin,
   (req: Request, res: Response) => {
-    return res.json({ acces: "Succes!" });
+    return res.json({ acces: "Sucess!" });
   }
 );
 
