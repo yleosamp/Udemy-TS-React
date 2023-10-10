@@ -222,3 +222,5 @@
 [35m[39m
 2023-10-09 12:29:38 - [35mhttp[39m: [35mPATCH /api/movie/652413a6fce72782c8b6a8bc 422 201 - 1.580 ms[39m
 [35m[39m
+2023-10-09 22:34:20 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2023-10-09 22:34:20 - [32minfo[39m: [32mA aplicação está ligada na porta: 3000[39m
